@@ -24,7 +24,7 @@ const Photo = () => {
         >
           <div className="relative flex justify-center items-center">
             <Image
-              src="/images/profile.jpeg "
+              src="/images/profile.jpeg"
               width={498}
               height={498}
               priority
